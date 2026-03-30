@@ -1,16 +1,45 @@
-# React + Vite
+# Hotels.ng Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Student Name
 
-Currently, two official plugins are available:
+Chinenye Orakwue
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Description
 
-## React Compiler
+This project is a clone of the Hotels.ng landing page built using React and Tailwind CSS. It recreates key sections of the homepage including the navigation bar, hero section, destinations, hotel deals, popular cities, newsletter, and footer.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+* React
+* Tailwind CSS
+* Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup Instructions
+
+1. Install dependencies: `npm install`
+2. Run project: `npm run dev`
+3. Open the local URL in your browser
+
+## Components Created
+
+* Navbar
+* Hero
+* SuggestedDestinations
+* DestinationCard
+* TopDeals
+* CityCard
+* PopularCities
+* Newsletter
+* Footer
+
+## Features
+
+* Responsive layout (mobile and desktop)
+* Hover effects on buttons, links, and cards
+* Reusable React components
+* Clean UI structure
+
+## Known Limitations
+
+* Hero background image not fully implemented
+* Some images are placeholders
